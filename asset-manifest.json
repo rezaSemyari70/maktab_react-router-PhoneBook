@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maktab_react-router-PhoneBook/static/css/main.5f361e03.chunk.css",
+    "main.js": "/maktab_react-router-PhoneBook/static/js/main.b41d0636.chunk.js",
+    "main.js.map": "/maktab_react-router-PhoneBook/static/js/main.b41d0636.chunk.js.map",
+    "runtime-main.js": "/maktab_react-router-PhoneBook/static/js/runtime-main.7f0d1151.js",
+    "runtime-main.js.map": "/maktab_react-router-PhoneBook/static/js/runtime-main.7f0d1151.js.map",
+    "static/js/2.4f1eea8d.chunk.js": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js",
+    "static/js/2.4f1eea8d.chunk.js.map": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js.map",
+    "index.html": "/maktab_react-router-PhoneBook/index.html",
+    "precache-manifest.27c38a901cc81896ad596cc051b7f3b1.js": "/maktab_react-router-PhoneBook/precache-manifest.27c38a901cc81896ad596cc051b7f3b1.js",
+    "service-worker.js": "/maktab_react-router-PhoneBook/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4f1eea8d.chunk.js.LICENSE.txt": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0d1151.js",
+    "static/js/2.4f1eea8d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b41d0636.chunk.js"
+  ]
+}
