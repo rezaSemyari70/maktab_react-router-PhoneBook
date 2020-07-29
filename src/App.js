@@ -1,16 +1,17 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import './App.css';
+import Contacts from './Views/Contacts/Contacts';
 
 
 function App() {
     return (
         <div className="App">
             <Router>
-                <div>
-                    <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
+                <div className="content">
+                    <nav className="navbar navbar-expand navbar-dark bg-dark ">
                         <Link to="/" className="nav-link font-weight-bold text-white">Home</Link>
-                        <div className="collapse navbar-collapse" id="navbarNav">
+                        <div className=" navbar-collapse" id="navbarNav">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
                                     <Link to="/contacts" className="text-white">Contacts</Link>
@@ -27,7 +28,7 @@ function App() {
                             
                         </Route>
                         <Route exact path="/contacts">
-                            
+                            <Contacts/>
                         </Route>
                         <Route path="/">
                             
