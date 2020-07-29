@@ -2,6 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import './App.css';
 import Contacts from './Views/Contacts/Contacts';
+import FormAddContact from './Views/FormAddContacts/FormAddContacts';
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
 
                     <Switch>
                         <Route exact path="/contacts/add">
-                            
+                            <FormAddContact/>
                         </Route>
                         <Route exact path="/contacts">
                             <Contacts/>
