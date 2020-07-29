@@ -2,7 +2,7 @@ import React , {useState} from 'react'
 import TableRow from '../../Components/TableRow/TableRow'
 
 function Contacts() {
-    const [contacts] = useState([
+    const [contacts , setContacts] = useState([
         {
             id: 1,
             firstname: 'ali',
@@ -76,10 +76,15 @@ function Contacts() {
         }
     ])
 
+    const handleDelete = (id) => {
+        console.log(id)
+        setContacts([...contacts.filter(contact => contact.id !== id)])
+    }
+
     return (
         <div className="container">
-            <div class="table-responsive-sm">
-                <table class="table table-hover">
+            <div className="table-responsive-sm">
+                <table className="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">Name</th>
@@ -99,6 +104,7 @@ function Contacts() {
                                     email={contact.email}    
                                     phone={contact.phone}
                                     address={contact.address}
+                                    handleDelete={()=> handleDelete(contact.id)}
                                 />
                             ))}     
                     </tbody>
