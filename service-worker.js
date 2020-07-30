@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maktab_react-router-PhoneBook/precache-manifest.1261219e8c18be01283a965ebf8dce45.js"
+  "/maktab_react-router-PhoneBook/precache-manifest.5ad6ef12beee1ef12468d0e4a07a4ba5.js"
 );
 
 self.addEventListener('message', (event) => {

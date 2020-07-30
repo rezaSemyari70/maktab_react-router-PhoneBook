@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/maktab_react-router-PhoneBook/static/css/main.8b611a7d.chunk.css",
+    "main.css": "/maktab_react-router-PhoneBook/static/css/main.334dd9e9.chunk.css",
     "main.js": "/maktab_react-router-PhoneBook/static/js/main.23647466.chunk.js",
     "main.js.map": "/maktab_react-router-PhoneBook/static/js/main.23647466.chunk.js.map",
     "runtime-main.js": "/maktab_react-router-PhoneBook/static/js/runtime-main.c0e55fce.js",
@@ -9,10 +9,10 @@
     "static/js/2.fb05611d.chunk.js": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js",
     "static/js/2.fb05611d.chunk.js.map": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js.map",
     "index.html": "/maktab_react-router-PhoneBook/index.html",
-    "precache-manifest.1261219e8c18be01283a965ebf8dce45.js": "/maktab_react-router-PhoneBook/precache-manifest.1261219e8c18be01283a965ebf8dce45.js",
+    "precache-manifest.5ad6ef12beee1ef12468d0e4a07a4ba5.js": "/maktab_react-router-PhoneBook/precache-manifest.5ad6ef12beee1ef12468d0e4a07a4ba5.js",
     "service-worker.js": "/maktab_react-router-PhoneBook/service-worker.js",
     "static/css/2.f7fd025e.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/2.f7fd025e.chunk.css.map",
-    "static/css/main.8b611a7d.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/main.8b611a7d.chunk.css.map",
+    "static/css/main.334dd9e9.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/main.334dd9e9.chunk.css.map",
     "static/js/2.fb05611d.chunk.js.LICENSE.txt": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/maktab_react-router-PhoneBook/static/media/18958.1cddd628.jpg",
     "static/media/font-awesome.min.css": "/maktab_react-router-PhoneBook/static/media/fontawesome-webfont.fee66e71.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.c0e55fce.js",
     "static/css/2.f7fd025e.chunk.css",
     "static/js/2.fb05611d.chunk.js",
-    "static/css/main.8b611a7d.chunk.css",
+    "static/css/main.334dd9e9.chunk.css",
     "static/js/main.23647466.chunk.js"
   ]
 }

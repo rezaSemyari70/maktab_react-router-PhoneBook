@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34a256d684145806eb3d4634d7b80e24",
+    "revision": "b36e0f49a0a8e89b7bdf8311baedd46e",
     "url": "/maktab_react-router-PhoneBook/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maktab_react-router-PhoneBook/static/css/2.f7fd025e.chunk.css"
   },
   {
-    "revision": "ed3ffd06aa76bac90a01",
-    "url": "/maktab_react-router-PhoneBook/static/css/main.8b611a7d.chunk.css"
+    "revision": "e2618459a43e27c26fd3",
+    "url": "/maktab_react-router-PhoneBook/static/css/main.334dd9e9.chunk.css"
   },
   {
     "revision": "e4e11366af33c4347744",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed3ffd06aa76bac90a01",
+    "revision": "e2618459a43e27c26fd3",
     "url": "/maktab_react-router-PhoneBook/static/js/main.23647466.chunk.js"
   },
   {
