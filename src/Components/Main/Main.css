@@ -9,24 +9,10 @@
 
 .nav-link:hover{
   text-decoration: none;
-  /* transform: scale(1.05); */
   color: lightblue !important;
-  font-size: 17px;
   font-weight: bolder;
 }
 
 .navbar:hover {
   height: 80px ;
-  /* width: 100px !important;
-  height: 100px;
-  background: red;
-  transition: width 2s; */
 }
-
-/* div:hover {
-  width: 300px;
-}
-
-.content:hover{
-  height: 60px ;
-} */
