@@ -1,6 +1,7 @@
 import React  from 'react';
 
 import TableRow from '../../Components/TableRow/TableRow';
+import './Contacts.css'
 
 
 function Contacts({contacts , setContacts}) {
@@ -11,17 +12,17 @@ function Contacts({contacts , setContacts}) {
 
   
     return (
-        <div className="container">
-            <div className="table-responsive-sm">
+        <div className="container mt-5">
+            <div className="table-responsive-sm mt-5">
                 <table className="table table-hover">
-                    <thead>
-                        <tr>
-                            <th scope="col">Contacts</th>
+                    <thead className="bg-primary">
+                        <tr >
+                            <th className="text-center" scope="col"><i className="fa fa-users mr-2"></i>Contacts</th>
                             {/* <th scope="col">Lastname</th>
                             <th scope="col">Email</th>
                             <th scope="col">Phone</th>
                             <th scope="col">Address</th> */}
-                            <th scope="col">Action</th>
+                            <th className="text-center" scope="col"><i className="fa fa-tasks mr-2"></i>Action</th>
                         </tr>
                     </thead>
                     <tbody>

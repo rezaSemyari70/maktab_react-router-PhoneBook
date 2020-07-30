@@ -1,0 +1,32 @@
+.navbar{
+  position: fixed !important;
+  width: 100vw;
+  z-index: 100000000;
+  transition: width 2s;
+  transition-timing-function: ease-in;
+  background: linear-gradient(ro right , #2c2c2c , #222222);
+}
+
+.nav-link:hover{
+  text-decoration: none;
+  /* transform: scale(1.05); */
+  color: lightblue !important;
+  font-size: 17px;
+  font-weight: bolder;
+}
+
+.navbar:hover {
+  height: 80px ;
+  /* width: 100px !important;
+  height: 100px;
+  background: red;
+  transition: width 2s; */
+}
+
+/* div:hover {
+  width: 300px;
+}
+
+.content:hover{
+  height: 60px ;
+} */

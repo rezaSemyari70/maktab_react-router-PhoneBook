@@ -30,10 +30,10 @@ function TableRow(props) {
     return (
         
         <tr >
-            <td>{`${props.firstname}`} {`${props.lastname}`}</td>
-            <td>
+            <td className="text-center">{`${props.firstname}`} {`${props.lastname}`}</td>
+            <td className="text-center">
                 <button className="btn btn-outline-danger btn-sm rounded mr-3" onClick={handleConfirmDelete}>Delete</button>
-                <Link to={`/contacts/${props.id}`}><button className="btn btn-primary btn-sm rounded" >More Info</button></Link>
+                <Link to={`/contacts/${props.id}`}><button className="btn btn-primary btn-sm" >More Info</button></Link>
             </td>
         </tr>
         

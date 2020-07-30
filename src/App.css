@@ -6,3 +6,8 @@
   overflow-x: hidden !important;
 }
 
+.backgroundImage{
+  background-image: url(./image/278.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

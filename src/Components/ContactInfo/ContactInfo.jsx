@@ -1,5 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {useParams} from 'react-router-dom';
+import './ContactInfo.css'
+import AOS from 'aos'
 
 function ContactInfo({contacts}) {
 
@@ -19,14 +21,18 @@ function ContactInfo({contacts}) {
         }))
     }, []);
 
+    AOS.init();
+
+
     return <> 
-        <div className="container-fluid mt-3">
-            <div className="card text-white bg-primary mb-3">
+        <div className="container-fluid mt-5 contentCard">
+            <div className="card text-white bg-primary mt-5 mb-3"  data-aos="fade-up"
+     data-aos-anchor-placement="bottom-bottom">
                 <p2 className="card-header">Contact Information</p2>
                 <div className="card-body">
                     <div className="d-flex">
-                        <h2 className="card-title"><span>{list.firstname} {list.lastname}</span></h2>
-                        <i className="fa fa-phone fa-3x ml-4"></i>
+                        <h3 className="card-title"><span>{list.firstname} {list.lastname}</span></h3>
+                        <i className="fa fa-phone fa-3x ml-4 tel"></i>
                     </div>
                     <div className="d-flex">
                         <span>

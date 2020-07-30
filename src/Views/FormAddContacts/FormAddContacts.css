@@ -1,0 +1,11 @@
+input{
+    background-color: rgba(255, 255, 255, 0.76) !important;
+}
+
+form{
+    margin-top: 30px !important;
+    z-index: -1000;
+    background-color: rgba(235, 235, 235, 0.466);
+    padding: 10px;
+    border-radius: 5px;
+}
