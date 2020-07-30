@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/maktab_react-router-PhoneBook/static/css/main.5f361e03.chunk.css",
-    "main.js": "/maktab_react-router-PhoneBook/static/js/main.b41d0636.chunk.js",
-    "main.js.map": "/maktab_react-router-PhoneBook/static/js/main.b41d0636.chunk.js.map",
-    "runtime-main.js": "/maktab_react-router-PhoneBook/static/js/runtime-main.7f0d1151.js",
-    "runtime-main.js.map": "/maktab_react-router-PhoneBook/static/js/runtime-main.7f0d1151.js.map",
-    "static/js/2.4f1eea8d.chunk.js": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js",
-    "static/js/2.4f1eea8d.chunk.js.map": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js.map",
+    "main.css": "/maktab_react-router-PhoneBook/static/css/main.8b611a7d.chunk.css",
+    "main.js": "/maktab_react-router-PhoneBook/static/js/main.23647466.chunk.js",
+    "main.js.map": "/maktab_react-router-PhoneBook/static/js/main.23647466.chunk.js.map",
+    "runtime-main.js": "/maktab_react-router-PhoneBook/static/js/runtime-main.c0e55fce.js",
+    "runtime-main.js.map": "/maktab_react-router-PhoneBook/static/js/runtime-main.c0e55fce.js.map",
+    "static/css/2.f7fd025e.chunk.css": "/maktab_react-router-PhoneBook/static/css/2.f7fd025e.chunk.css",
+    "static/js/2.fb05611d.chunk.js": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js",
+    "static/js/2.fb05611d.chunk.js.map": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js.map",
     "index.html": "/maktab_react-router-PhoneBook/index.html",
-    "precache-manifest.27c38a901cc81896ad596cc051b7f3b1.js": "/maktab_react-router-PhoneBook/precache-manifest.27c38a901cc81896ad596cc051b7f3b1.js",
+    "precache-manifest.1261219e8c18be01283a965ebf8dce45.js": "/maktab_react-router-PhoneBook/precache-manifest.1261219e8c18be01283a965ebf8dce45.js",
     "service-worker.js": "/maktab_react-router-PhoneBook/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4f1eea8d.chunk.js.LICENSE.txt": "/maktab_react-router-PhoneBook/static/js/2.4f1eea8d.chunk.js.LICENSE.txt"
+    "static/css/2.f7fd025e.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/2.f7fd025e.chunk.css.map",
+    "static/css/main.8b611a7d.chunk.css.map": "/maktab_react-router-PhoneBook/static/css/main.8b611a7d.chunk.css.map",
+    "static/js/2.fb05611d.chunk.js.LICENSE.txt": "/maktab_react-router-PhoneBook/static/js/2.fb05611d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/maktab_react-router-PhoneBook/static/media/18958.1cddd628.jpg",
+    "static/media/font-awesome.min.css": "/maktab_react-router-PhoneBook/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f0d1151.js",
-    "static/js/2.4f1eea8d.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b41d0636.chunk.js"
+    "static/js/runtime-main.c0e55fce.js",
+    "static/css/2.f7fd025e.chunk.css",
+    "static/js/2.fb05611d.chunk.js",
+    "static/css/main.8b611a7d.chunk.css",
+    "static/js/main.23647466.chunk.js"
   ]
 }
