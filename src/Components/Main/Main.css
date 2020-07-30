@@ -10,9 +10,9 @@
 .nav-link:hover{
   text-decoration: none;
   color: lightblue !important;
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 .navbar:hover {
-  height: 80px ;
+  height: 70px ;
 }
